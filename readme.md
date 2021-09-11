@@ -2,7 +2,7 @@
 
 ![logo](/TempleOS_logo.png)
 
-# TerryADavis was really a legend, a genius and we can say that he was one of the greatest programmer in human history. He wrote a kernel, an operating system, a compiler, a language, a window manager, Multiple CLIs and these all are working in 2MB. And the thing is, that's 16 colours, 2d and 3d sprites, games, music, all running on what's basically a text file. 
+## TerryADavis was really a legend, a genius and we can say that he was one of the greatest programmer in human history. He wrote a kernel, an operating system, a compiler, a language, a window manager, Multiple CLIs and these all are working in 2MB. And the thing is, that's 16 colours, 2d and 3d sprites, games, music, all running on what's basically a text file. 
 
 ## OS
 https://www.templeos.org/Downloads/
