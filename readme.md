@@ -2,6 +2,8 @@
 
 ![logo](/TempleOS_logo.png)
 
+# My words: Damn he was really a legend IMO. He wrote a kernel, an operating system, a compiler, a language, a window manager, Multiple CLIs and these all are working in 2MB. And the thing is, that's 16 colours, 2d and 3d sprites, games, music, all running on what's basically a text file. 
+
 ## OS
 https://www.templeos.org/Downloads/
 
@@ -20,7 +22,6 @@ https://wiki.templeos.org/doku.php
 ## VICE article 
 https://www.vice.com/en/article/wnj43x/gods-lonely-programmer
 
-https://www.twitch.tv/terryadavis_templeos
 # Archive
 https://archive.org/details/TerryADavis_TempleOS_Archive
 
