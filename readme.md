@@ -1,6 +1,6 @@
 # TempleOS, HOPPY, J Operating System, LoseThos, SparrowOS by TerryADavis
 
-![alt text](http://url/to/img.png)
+![logo](/TempleOS_logo.png)
 
 ## OS
 https://www.templeos.org/Downloads/
